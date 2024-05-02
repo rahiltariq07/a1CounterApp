@@ -1,2 +1,2 @@
 # a1CounterApp
-Creating Counter App using JS
+Creating Counter App using JavaScript.
