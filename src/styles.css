@@ -90,11 +90,11 @@ div {
   width: 42rem;
   border: 1px solid #eee;
   padding: 1rem;
-  background-color: #135D66;
+  background-color: #35374B;
   color: #fff;
   text-align: center;
   border-radius: 5px;
-  box-shadow: 0 5px 15px #A4CE95;
+  box-shadow: 0 5px 15px #35374B;
 }
 
 .counter-div>* {
@@ -106,7 +106,7 @@ div {
 }
 
 hr {
-  border-color: #AAD9BB;
+  border-color: #8e92bc;
 }
 
 .buttons button {
@@ -123,24 +123,24 @@ hr {
 }
 
 button.subtract {
-  background-color: #DD5746;
+  background-color: #50727B;
 }
 
 button.reset {
-  background-color: #F5DD61;
+  background-color: #F9E897;
   color: #1e8cfa;
 }
 
 button.add {
-  background-color: #90D26D;
+  background-color: #50727B;
 }
 
 .uphand-styles {
-  color: white;
+  color: greenyellow;
 }
 
 .downhand-styles {
-  color: white;
+  color: orangered;
 }
 
 @media (min-width: 800px) {
