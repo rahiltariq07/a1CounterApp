@@ -111,7 +111,7 @@ hr {
 
 .buttons button {
   padding: 1rem;
-  margin: 0 5px;
+  margin: 0 20px;
   font-size: 1.5rem;
   color: #fff;
   font-weight: 700;
@@ -119,20 +119,19 @@ hr {
   outline: none;
   border-radius: 3px;
   cursor: pointer;
-  box-shadow: 1px 1px 1px #5F5D9C;
+  box-shadow: 1px 1px 1px lightblue;
 }
 
 button.subtract {
-  background-color: #50727B;
+  background-color: #5f5f6d;
 }
 
 button.reset {
-  background-color: #F9E897;
-  color: #1e8cfa;
+  background-color: #5f5f6d;
 }
 
 button.add {
-  background-color: #50727B;
+  background-color: #5f5f6d;
 }
 
 .uphand-styles {
